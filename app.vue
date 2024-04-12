@@ -6,6 +6,11 @@
         <h1 class="text-2xl font-semibold">personal Blog</h1>
         <p class="text-gray-500">Learn programming easily</p>
       </div>
+
+      <contentBtn>Contact/Hire me</contentBtn>
     </Header>
+
+    <!-- Main content -->
+    <NuxtPage />
   </div>
 </template>
