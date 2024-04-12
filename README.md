@@ -73,3 +73,14 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+#
+md語法記得在: 右方要按一次空白鍵
+---
+title: "Hello hello"
+date: 2024-4-12
+draft: false
+tags: ["hello","world"]
+thumbnail: '/img/hello.png'
+---

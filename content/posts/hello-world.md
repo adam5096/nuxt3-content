@@ -1,9 +1,10 @@
 ---
-title:"Hello hello"
-date:2024-4-12
-darft:false
-tags:["hello","world"]
-thumbnail:'/img/hello.jpg'
+title: "Hello hello"
+date: 2024-4-12
+draft: false
+tags: ["hello","world"]
+thumbnail: '/img/hello.png'
+slug: "hello-world"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida quis blandit turpis cursus in. Ut tristique et egestas quis ipsum. Non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Ullamcorper malesuada proin libero nunc. Nulla facilisi etiam dignissim diam quis enim. Orci nulla pellentesque dignissim enim sit amet venenatis urna. Varius sit amet mattis vulputate enim. Congue eu consequat ac felis donec et odio. Parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Eget arcu dictum varius duis at consectetur lorem donec massa. Id donec ultrices tincidunt arcu non sodales neque sodales. Sit amet consectetur adipiscing elit. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Eget mi proin sed libero enim sed. Aliquam nulla facilisi cras fermentum odio eu.
