@@ -10,7 +10,7 @@
         <p class="text-gray-500">Learn programming easily</p>
       </div>
 
-      <Btn>Contact/Hire me</Btn>
+      <Btn>Btn Contact/Hire Me</Btn>
     </Header>
 
     <!-- Main content -->

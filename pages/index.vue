@@ -4,6 +4,8 @@
 
 <template>
     <div class="">
-        Index
+        <ContentList path="/posts" v-slot="{list}">
+            {{ list }}
+        </ContentList>
     </div>
 </template>
