@@ -1,3 +1,6 @@
+# [教材來源](https://www.youtube.com/watch?v=wW1gePu3Wl8) Nuxt 生態系 Nuxt Content 實作部落格
+## 個人練習用，請勿挪為商業用途
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
