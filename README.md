@@ -1,8 +1,9 @@
 # 🚀Nuxt 3 生態系 Nuxt Content 實作部落格
-# 🔗[教材來源](https://www.youtube.com/watch?v=wW1gePu3Wl8)
+# 🔗[點我前往教材網址](https://www.youtube.com/watch?v=wW1gePu3Wl8)
 **🚫本專案為自主練習使用，請勿挪為商業用途🚫**
 
-* 小記
+小記
+
 md語法記得在冒號: 右方要按一次空白鍵
 ```
 ---
