@@ -31,5 +31,4 @@ thumbnail: '/img/hello.png'
     @nuxtjs/tailwindcss: ^6.11.4
   ```
 
-
 🚀🔧🚫🏪🔗💻📝🔩🪜
