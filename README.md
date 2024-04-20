@@ -1,5 +1,5 @@
 # 🚀Nuxt 3 生態系 Nuxt Content 實作部落格
-# 🔗[點我前往教材網址](https://www.youtube.com/watch?v=wW1gePu3Wl8)
+# 🔗[原作者+參考資料來源](https://www.youtube.com/watch?v=wW1gePu3Wl8)
 **🚫本專案為自主練習使用，請勿挪為商業用途🚫**
 
 小記
