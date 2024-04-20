@@ -1,85 +1,10 @@
-# [教材來源](https://www.youtube.com/watch?v=wW1gePu3Wl8) Nuxt 生態系 Nuxt Content 實作部落格
-## 個人練習用，請勿挪為商業用途
+# 🚀Nuxt 3 生態系 Nuxt Content 實作部落格
+# 🔗[教材來源](https://www.youtube.com/watch?v=wW1gePu3Wl8)
+**🚫本專案為自主練習使用，請勿挪為商業用途🚫**
 
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
-
-Make sure to install the dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+* 小記
+md語法記得在冒號: 右方要按一次空白鍵
 ```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-
-#
-md語法記得在: 右方要按一次空白鍵
 ---
 title: "Hello hello"
 date: 2024-4-12
@@ -87,3 +12,23 @@ draft: false
 tags: ["hello","world"]
 thumbnail: '/img/hello.png'
 ---
+```
+
+# 🔧使用編輯器/語言/其他依賴
+💻編輯器  
+* Visual Studio Code
+
+🪜其他依賴
+  ```
+  dependencies: 
+    @nuxt/content: ^2.12.1
+    nuxt: ^3.11.2
+    vue: ^3.4.21
+    vue-router: ^4.3.0
+  
+  devDependencies: 
+    @nuxtjs/tailwindcss: ^6.11.4
+  ```
+
+
+🚀🔧🚫🏪🔗💻📝🔩🪜
